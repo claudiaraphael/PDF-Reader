@@ -9,4 +9,4 @@ This is a desktop based application that reads PDFs and allows you to mark the f
 
 - PDF Engine: PyMuPDF (pip install pymupdf).
 
-- Packaging (Transformar em .exe): PyInstaller ou Nuitka.
+- Packaging (Transformar em .exe): PyInstaller ou Nuitka.# PDF-Reader
